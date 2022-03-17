@@ -1,3 +1,3 @@
-<a href="https://github.com/buildcore">buildcore</a> / <a href="https://github.com/buildcore#articles">Articles</a> / <a href="https://github.com/buildcore/list">List</a>
+<a href="https://github.com/buildcore">buildcore</a> / <a href="https://github.com/buildcore#articles">articles</a> / <a href="https://github.com/buildcore/list">list</a>
 
 # Some article
